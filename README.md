@@ -4,6 +4,7 @@ Integrante:
 Gustavo Adolfo Villada Molina
 
 Tarea 2:
+
 Reporte 1. Con base en un combobox (lista de opciones desplegable) donde estén todos los departamentos, permita que el usuario seleccione un departamento y filtre los datos de manera que en la tabla donde se despliegan, solamente queden las filas cuya columna departamento sea el seleccionado.
 Reporte 2. Un gráfico de barras generado con base en la cantidad de municipios por tipo de la siguiente forma:
 
