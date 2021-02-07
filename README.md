@@ -36,5 +36,5 @@ Para el desarrollo de este programa se tuvo en cuenta algunos problemas presenta
 
 Después de haber analisado la problematica, se pudo diseñar una solución para nuestro cliente.
 
-[Diagrama de clases](https://github.com/gustavovillada1/Software_de_mercado/blob/master/dise%C3%B1o.pdf)
+[Diagrama de clases](https://github.com/gustavovillada1/T1_C-.NET/blob/main/readmeImages/Diagrama%20en%20blanco.pdf)
 
