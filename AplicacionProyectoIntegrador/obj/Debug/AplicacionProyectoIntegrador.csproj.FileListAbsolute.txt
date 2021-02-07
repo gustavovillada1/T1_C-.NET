@@ -1,0 +1,10 @@
+C:\Users\icesi\source\repos\AplicacionProyectoIntegrador\AplicacionProyectoIntegrador\bin\Debug\AplicacionProyectoIntegrador.exe.config
+C:\Users\icesi\source\repos\AplicacionProyectoIntegrador\AplicacionProyectoIntegrador\bin\Debug\AplicacionProyectoIntegrador.exe
+C:\Users\icesi\source\repos\AplicacionProyectoIntegrador\AplicacionProyectoIntegrador\bin\Debug\AplicacionProyectoIntegrador.pdb
+C:\Users\icesi\source\repos\AplicacionProyectoIntegrador\AplicacionProyectoIntegrador\obj\Debug\AplicacionProyectoIntegrador.csprojAssemblyReference.cache
+C:\Users\icesi\source\repos\AplicacionProyectoIntegrador\AplicacionProyectoIntegrador\obj\Debug\AplicacionProyectoIntegrador.Form1.resources
+C:\Users\icesi\source\repos\AplicacionProyectoIntegrador\AplicacionProyectoIntegrador\obj\Debug\AplicacionProyectoIntegrador.Properties.Resources.resources
+C:\Users\icesi\source\repos\AplicacionProyectoIntegrador\AplicacionProyectoIntegrador\obj\Debug\AplicacionProyectoIntegrador.csproj.GenerateResource.cache
+C:\Users\icesi\source\repos\AplicacionProyectoIntegrador\AplicacionProyectoIntegrador\obj\Debug\AplicacionProyectoIntegrador.exe
+C:\Users\icesi\source\repos\AplicacionProyectoIntegrador\AplicacionProyectoIntegrador\obj\Debug\AplicacionProyectoIntegrador.pdb
+C:\Users\icesi\source\repos\AplicacionProyectoIntegrador\AplicacionProyectoIntegrador\obj\Debug\AplicacionProyectoIntegrador.Form2.resources
